@@ -21,7 +21,7 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100 <br/>
 
 # 프로젝트 프레임워크
 
-<img src="./image/캡스톤 프레임워크.png" width="600px">
+<img src="./image/캡스톤 프레임워크.png" width="400px">
 
 # Contents 
 
