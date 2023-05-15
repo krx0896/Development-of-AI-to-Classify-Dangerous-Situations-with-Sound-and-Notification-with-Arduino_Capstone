@@ -3,7 +3,7 @@
  
 # Intro 
 ### 🗓️ Date 
-Project term : 2023.09.01 ~ 2023.06.04 </br>
+Project term : 2022.09.01 ~ 2023.06.04 </br>
 Presentation Date : 2023.06.05 </br>
 ### :man: Professor 
   한양대학교 ERICA, 산업경영공학과 서경민 교수님 
