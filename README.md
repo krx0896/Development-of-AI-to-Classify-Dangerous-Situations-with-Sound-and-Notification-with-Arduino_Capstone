@@ -19,9 +19,9 @@ Presentation Date : 2023.06.05 </br>
 - AI Hub의 도시 소리 데이터와 이동감지 소리 데이터 이용 <br>
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100 <br/>
 
-# 프로젝트 프레임워크
+# 프로젝트 소개
 
-<img src="./image/캡스톤 프레임워크.png" width="400px">
+<img src="./image/캡스톤 판넬 최종본_1.jpg">
 
 # Contents 
 
