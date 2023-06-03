@@ -13,15 +13,16 @@ Presentation Date : 2023.06.05 </br>
   * 산업경영공학과 김준호
   * 산업경영공학과 이준범
   * 산업경영공학과 나인재
-  
-# Data Set 
-### ✅ Source 
-- AI Hub의 도시 소리 데이터와 이동감지 소리 데이터 이용 <br>
-https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100 <br/>
 
 # 프로젝트 소개
 
 <img src="./image/캡스톤 판넬 최종본_1.jpg">
+
+
+# Data Set 
+### ✅ Source 
+- AI Hub의 도시 소리 데이터와 이동감지 소리 데이터 이용 <br>
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100 <br/>
 
 # Contents 
 
