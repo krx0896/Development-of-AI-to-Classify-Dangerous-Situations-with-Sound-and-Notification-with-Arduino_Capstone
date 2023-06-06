@@ -16,7 +16,7 @@ Presentation Date : 2023.06.05 </br>
 
 # 프로젝트 소개
 
-<img src="./image/캡스톤 판넬 최종본_1.jpg">
+<img src="./image/캡스톤_산업경영공학과_(IME STUDIO)_1.jpg">
 
 
 # Data Set 
