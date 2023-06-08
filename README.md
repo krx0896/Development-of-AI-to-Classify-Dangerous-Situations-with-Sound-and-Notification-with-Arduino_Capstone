@@ -67,4 +67,4 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100 <br/>
 
 # 결과
 - 산업경영공학과 캡스톤 1위
-- 공학대학 캡스톤 페어 21팀 중 11위
+- 공학대학 캡스톤 페어 동상
