@@ -64,3 +64,7 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100 <br/>
 
 ### 발전 가능성
   - 그냥 간단하게만 작성
+
+# 결과
+- 산업경영공학과 캡스톤 1위
+- 공학대학 캡스톤 페어 21팀 중 11위
